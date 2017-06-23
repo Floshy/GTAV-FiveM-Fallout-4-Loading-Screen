@@ -8,6 +8,7 @@ A GTAV Fallout 4 loading screen for FiveM
 # How to Install
 - Download files
 - Extract folder into the FTP
+- Rename downloaded file in to " gta_falloutload "
 - Add " - gta_falloutload " into citmp-server.yml file
 - Restart your server
 - Enjoy ;)
